@@ -1,0 +1,6 @@
+{
+  "name": "Cairo Cravings",
+  "description": "Tampa's first authentic Egyptian street food spot serving iconic Koshary, stone-baked Hawawshi, Ta'ameya falafel, and sizzling Shawarma in Temple Terrace, FL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
